@@ -127,7 +127,7 @@ The application may start by executing the provided *arlcl-optimizer_gui-run.bat
 
 ### Demo
 www.youtube.com/watch?v=2DhkNLAwHkw
-[![ARLCL-Optimizer GUI Usage/Export demo with UWB measurements](https://indoorpaths.com/3rd_sources/ARLCL/GUI_screenshot.png)](https://youtu.be/2DhkNLAwHkw)
+[![ARLCL-Optimizer GUI Usage/Export demo with UWB measurements](https://webarchive.inf.unibe.ch/cds/publications/files/catalog/GUI_screenshot.png)](https://youtu.be/2DhkNLAwHkw)
 
 ## Headless mode
 
