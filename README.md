@@ -2,7 +2,7 @@
 
 Dimitris Xenakis, Antonio Di Maio, Torsten Braun
 
-[![ARLCL-Optimizer](https://indoorpaths.com/3rd_sources/ARLCL/Cycles_in_ARLCL.jpg "ARLCL-Optimizer")](https://indoorpaths.com/3rd_sources/ARLCL/Cycles_in_ARLCL.jpg "ARLCL-Optimizer")
+[![ARLCL-Optimizer]([https://indoorpaths.com/3rd_sources/ARLCL/Cycles_in_ARLCL.jpg](https://webarchive.inf.unibe.ch/cds/publications/files/catalog/Cycles_in_ARLCL.jpg) "ARLCL-Optimizer")]([https://indoorpaths.com/3rd_sources/ARLCL/Cycles_in_ARLCL.jpg](https://webarchive.inf.unibe.ch/cds/publications/files/catalog/Cycles_in_ARLCL.jpg) "ARLCL-Optimizer")
 
 ARLCL-Optimizer is an application implementing the cooperative localization method **ARLCL: Anchor-free Ranging-Likelihood-based Cooperative Localization**. This method has been developed by the Communication and Distributed Systems research group at the University of Bern.
 
