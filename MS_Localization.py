@@ -12,8 +12,10 @@ import numpy as np
 import zipfile
 import torch
 import torch.nn as nn
+import argparse
 
-
+# 加文件工作目录，不然debug模式下相对路径会报错
+os.chdir('/home/guest/shared/lx/ARLCL-Optimizer')  # 确保工作目录与相对路径一致
 logged_lines = []
 
 measurement = {"ble": {"unit": "RSS", "db_ext": ".rss"},
@@ -24,24 +26,54 @@ str_params = {}
 ARLCL_zipped_scenario_path = None
 
 # Parse all parameters and put the in the corresponding dictionary in unconstrained order
-for parameter in sys.argv[1:]:
-    key_value_pair = parameter.split("=")
-    str_params[key_value_pair[0]] = key_value_pair[1]
+# for parameter in sys.argv[1:]:
+#     key_value_pair = parameter.split("=")   # 命令行输入的参数是以等号分隔的
+#     # key_value_pair = parameter.split(" ")  # 调试时参数是以空格分隔的
+#     str_params[key_value_pair[0]] = key_value_pair[1]
 
-MS_export_path = str_params["out"]
-zipped_arlcl_results_path = str_params["arlcl_out"]
-DB_path = str_params["db"]
-scenarios_path = str_params["batch"]
-input_log_path = str_params["log"]
-model = str_params["model"]
-scenario_idx = int(str_params["scenario_id"])
-input_seed = int(str_params["seed"])
-last_evaluation_id = int(str_params["end_iter"])
-optimization_iterations = int(str_params["opts"])
-learn_rate = float(str_params["learn_rate"])
+# MS_export_path = str_params["out"]
+# zipped_arlcl_results_path = str_params["arlcl_out"]
+# DB_path = str_params["db"]
+# scenarios_path = str_params["batch"]
+# input_log_path = str_params["log"]
+# model = str_params["model"]
+# scenario_idx = int(str_params["scenario_id"])
+# input_seed = int(str_params["seed"])
+# last_evaluation_id = int(str_params["end_iter"])
+# optimization_iterations = int(str_params["opts"])
+# learn_rate = float(str_params["learn_rate"])
+
+# np.random.seed(input_seed)
+
+
+parser = argparse.ArgumentParser(description='Mass-Spring Localization')
+parser.add_argument('--out', type=str, default="MS_Results", help='Path to store the Mass-Spring results')
+parser.add_argument('--arlcl_out', type=str, default="ARLCL_Results", help='Path to the ARLCL results')
+parser.add_argument('--db', type=str, default="DB", help='Path to the database')
+parser.add_argument('--batch', type=str, default="scenarios.txt", help='Path to the scenarios file')
+parser.add_argument('--log', type=str, default="logs", help='Path to the logs')
+parser.add_argument('--model', type=str, default="ble", help='Model to use (ble or uwb)')
+parser.add_argument('--scenario_id', type=int, default=0, help='Scenario ID to process')
+parser.add_argument('--seed', type=int, default=0, help='Seed for random number generator')
+parser.add_argument('--end_iter', type=int, default=0, help='Last evaluation iteration')
+parser.add_argument('--opts', type=int, default=1000, help='Number of optimization iterations')
+parser.add_argument('--learn_rate', type=float, default=0.1, help='Learning rate for the optimizer')
+args = parser.parse_args()
+# print(args, flush=True)
+# print(sys.argv[0])
+MS_export_path = args.out
+zipped_arlcl_results_path = args.arlcl_out
+DB_path = args.db
+scenarios_path = args.batch
+input_log_path = args.log
+model = args.model
+scenario_idx = args.scenario_id
+input_seed = args.seed
+last_evaluation_id = args.end_iter
+optimization_iterations = args.opts
+learn_rate = args.learn_rate
 
 np.random.seed(input_seed)
-
 
 def get_cur_scenario(eval_scenarios, eval_scenario_id):
     with open(eval_scenarios) as fp:
@@ -269,7 +301,7 @@ def calculate_swarm_positions(eval_iter, total_opts, scenario_eval_results_path)
         optimizer.zero_grad()
         loss = springs.energy(vertex_positions)
         # Check the loss
-        # print(loss, flush=True)
+        print('epoch: ', i, "; loss: ", loss, flush=True)
         loss.backward()
         optimizer.step()
 

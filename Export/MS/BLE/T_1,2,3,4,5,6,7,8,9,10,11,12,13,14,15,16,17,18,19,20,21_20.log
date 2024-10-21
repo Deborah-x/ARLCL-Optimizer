@@ -1,0 +1,727 @@
+Starting
+
+Input params: 
+{}
+
+Setting other paths: 
+scenario db path: Examples/BLE-RSS_Evaluation-Samples_Lecture-Room (Examples)/DB/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20.rss
+MS export path: Export/MS/BLE
+MS export scenario path: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20
+MS zip scenario path: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20.zip
+ARLCL zipped scenario path: Export/ARLCL/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20.zip
+ARLCL export path: Export/ARLCL/BLE_Estimations_temp_unzipped
+
+Check whether the final Mass-Spring results for current scenario (T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20) already exist.
+The final Mass-Spring results for current scenario (T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20) do not exist.
+Deleting possible leftovers at Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20
+Notice: Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20 - No such file or directory.
+Extracting the ARLCL data at Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20
+Scenario T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20 has been initiated before but is not complete. Continuing the evaluations.
+
+Start optimizing evaluation scenario of ID: 0
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/0/results.log
+Previous results for eval scenario T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20 found
+Skipping current evaluation iteration
+
+Start optimizing evaluation scenario of ID: 1
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/1/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/1
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/1 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/1/results.log
+
+Start optimizing evaluation scenario of ID: 2
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/2/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/2
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/2 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/2/results.log
+
+Start optimizing evaluation scenario of ID: 3
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/3/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/3
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/3 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/3/results.log
+
+Start optimizing evaluation scenario of ID: 4
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/4/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/4
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/4 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/4/results.log
+
+Start optimizing evaluation scenario of ID: 5
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/5/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/5
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/5 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/5/results.log
+
+Start optimizing evaluation scenario of ID: 6
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/6/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/6
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/6 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/6/results.log
+
+Start optimizing evaluation scenario of ID: 7
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/7/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/7
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/7 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/7/results.log
+
+Start optimizing evaluation scenario of ID: 8
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/8/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/8
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/8 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/8/results.log
+
+Start optimizing evaluation scenario of ID: 9
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/9/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/9
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/9 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/9/results.log
+
+Start optimizing evaluation scenario of ID: 10
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/10/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/10
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/10 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/10/results.log
+
+Start optimizing evaluation scenario of ID: 11
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/11/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/11
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/11 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/11/results.log
+
+Start optimizing evaluation scenario of ID: 12
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/12/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/12
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/12 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/12/results.log
+
+Start optimizing evaluation scenario of ID: 13
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/13/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/13
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/13 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/13/results.log
+
+Start optimizing evaluation scenario of ID: 14
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/14/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/14
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/14 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/14/results.log
+
+Start optimizing evaluation scenario of ID: 15
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/15/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/15
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/15 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/15/results.log
+
+Start optimizing evaluation scenario of ID: 16
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/16/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/16
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/16 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/16/results.log
+
+Start optimizing evaluation scenario of ID: 17
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/17/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/17
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/17 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/17/results.log
+
+Start optimizing evaluation scenario of ID: 18
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/18/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/18
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/18 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/18/results.log
+
+Start optimizing evaluation scenario of ID: 19
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/19/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/19
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/19 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/19/results.log
+
+Start optimizing evaluation scenario of ID: 20
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/20/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/20
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/20 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/20/results.log
+
+Start optimizing evaluation scenario of ID: 21
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/21/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/21
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/21 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/21/results.log
+
+Start optimizing evaluation scenario of ID: 22
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/22/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/22
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/22 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/22/results.log
+
+Start optimizing evaluation scenario of ID: 23
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/23/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/23
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/23 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/23/results.log
+
+Start optimizing evaluation scenario of ID: 24
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/24/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/24
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/24 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/24/results.log
+
+Start optimizing evaluation scenario of ID: 25
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/25/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/25
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/25 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/25/results.log
+
+Start optimizing evaluation scenario of ID: 26
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/26/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/26
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/26 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/26/results.log
+
+Start optimizing evaluation scenario of ID: 27
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/27/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/27
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/27 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/27/results.log
+
+Start optimizing evaluation scenario of ID: 28
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/28/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/28
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/28 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/28/results.log
+
+Start optimizing evaluation scenario of ID: 29
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/29/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/29
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/29 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/29/results.log
+
+Start optimizing evaluation scenario of ID: 30
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/30/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/30
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/30 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/30/results.log
+
+Start optimizing evaluation scenario of ID: 31
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/31/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/31
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/31 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/31/results.log
+
+Start optimizing evaluation scenario of ID: 32
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/32/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/32
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/32 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/32/results.log
+
+Start optimizing evaluation scenario of ID: 33
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/33/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/33
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/33 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/33/results.log
+
+Start optimizing evaluation scenario of ID: 34
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/34/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/34
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/34 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/34/results.log
+
+Start optimizing evaluation scenario of ID: 35
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/35/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/35
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/35 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/35/results.log
+
+Start optimizing evaluation scenario of ID: 36
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/36/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/36
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/36 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/36/results.log
+
+Start optimizing evaluation scenario of ID: 37
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/37/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/37
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/37 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/37/results.log
+
+Start optimizing evaluation scenario of ID: 38
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/38/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/38
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/38 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/38/results.log
+
+Start optimizing evaluation scenario of ID: 39
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/39/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/39
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/39 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/39/results.log
+
+Start optimizing evaluation scenario of ID: 40
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/40/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/40
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/40 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/40/results.log
+
+Start optimizing evaluation scenario of ID: 41
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/41/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/41
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/41 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/41/results.log
+
+Start optimizing evaluation scenario of ID: 42
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/42/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/42
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/42 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/42/results.log
+
+Start optimizing evaluation scenario of ID: 43
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/43/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/43
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/43 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/43/results.log
+
+Start optimizing evaluation scenario of ID: 44
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/44/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/44
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/44 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/44/results.log
+
+Start optimizing evaluation scenario of ID: 45
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/45/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/45
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/45 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/45/results.log
+
+Start optimizing evaluation scenario of ID: 46
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/46/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/46
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/46 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/46/results.log
+
+Start optimizing evaluation scenario of ID: 47
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/47/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/47
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/47 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/47/results.log
+
+Start optimizing evaluation scenario of ID: 48
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/48/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/48
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/48 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/48/results.log
+
+Start optimizing evaluation scenario of ID: 49
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/49/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/49
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/49 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/49/results.log
+
+Start optimizing evaluation scenario of ID: 50
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/50/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/50
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/50 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/50/results.log
+
+Start optimizing evaluation scenario of ID: 51
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/51/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/51
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/51 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/51/results.log
+
+Start optimizing evaluation scenario of ID: 52
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/52/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/52
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/52 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/52/results.log
+
+Start optimizing evaluation scenario of ID: 53
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/53/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/53
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/53 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/53/results.log
+
+Start optimizing evaluation scenario of ID: 54
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/54/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/54
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/54 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/54/results.log
+
+Start optimizing evaluation scenario of ID: 55
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/55/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/55
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/55 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/55/results.log
+
+Start optimizing evaluation scenario of ID: 56
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/56/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/56
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/56 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/56/results.log
+
+Start optimizing evaluation scenario of ID: 57
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/57/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/57
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/57 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/57/results.log
+
+Start optimizing evaluation scenario of ID: 58
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/58/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/58
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/58 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/58/results.log
+
+Start optimizing evaluation scenario of ID: 59
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/59/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/59
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/59 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/59/results.log
+
+Start optimizing evaluation scenario of ID: 60
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/60/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/60
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/60 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/60/results.log
+
+Start optimizing evaluation scenario of ID: 61
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/61/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/61
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/61 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/61/results.log
+
+Start optimizing evaluation scenario of ID: 62
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/62/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/62
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/62 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/62/results.log
+
+Start optimizing evaluation scenario of ID: 63
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/63/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/63
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/63 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/63/results.log
+
+Start optimizing evaluation scenario of ID: 64
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/64/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/64
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/64 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/64/results.log
+
+Start optimizing evaluation scenario of ID: 65
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/65/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/65
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/65 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/65/results.log
+
+Start optimizing evaluation scenario of ID: 66
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/66/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/66
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/66 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/66/results.log
+
+Start optimizing evaluation scenario of ID: 67
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/67/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/67
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/67 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/67/results.log
+
+Start optimizing evaluation scenario of ID: 68
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/68/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/68
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/68 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/68/results.log
+
+Start optimizing evaluation scenario of ID: 69
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/69/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/69
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/69 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/69/results.log
+
+Start optimizing evaluation scenario of ID: 70
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/70/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/70
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/70 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/70/results.log
+
+Start optimizing evaluation scenario of ID: 71
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/71/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/71
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/71 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/71/results.log
+
+Start optimizing evaluation scenario of ID: 72
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/72/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/72
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/72 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/72/results.log
+
+Start optimizing evaluation scenario of ID: 73
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/73/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/73
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/73 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/73/results.log
+
+Start optimizing evaluation scenario of ID: 74
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/74/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/74
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/74 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/74/results.log
+
+Start optimizing evaluation scenario of ID: 75
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/75/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/75
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/75 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/75/results.log
+
+Start optimizing evaluation scenario of ID: 76
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/76/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/76
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/76 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/76/results.log
+
+Start optimizing evaluation scenario of ID: 77
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/77/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/77
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/77 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/77/results.log
+
+Start optimizing evaluation scenario of ID: 78
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/78/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/78
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/78 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/78/results.log
+
+Start optimizing evaluation scenario of ID: 79
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/79/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/79
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/79 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/79/results.log
+
+Start optimizing evaluation scenario of ID: 80
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/80/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/80
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/80 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/80/results.log
+
+Start optimizing evaluation scenario of ID: 81
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/81/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/81
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/81 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/81/results.log
+
+Start optimizing evaluation scenario of ID: 82
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/82/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/82
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/82 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/82/results.log
+
+Start optimizing evaluation scenario of ID: 83
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/83/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/83
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/83 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/83/results.log
+
+Start optimizing evaluation scenario of ID: 84
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/84/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/84
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/84 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/84/results.log
+
+Start optimizing evaluation scenario of ID: 85
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/85/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/85
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/85 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/85/results.log
+
+Start optimizing evaluation scenario of ID: 86
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/86/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/86
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/86 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/86/results.log
+
+Start optimizing evaluation scenario of ID: 87
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/87/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/87
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/87 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/87/results.log
+
+Start optimizing evaluation scenario of ID: 88
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/88/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/88
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/88 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/88/results.log
+
+Start optimizing evaluation scenario of ID: 89
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/89/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/89
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/89 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/89/results.log
+
+Start optimizing evaluation scenario of ID: 90
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/90/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/90
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/90 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/90/results.log
+
+Start optimizing evaluation scenario of ID: 91
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/91/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/91
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/91 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/91/results.log
+
+Start optimizing evaluation scenario of ID: 92
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/92/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/92
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/92 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/92/results.log
+
+Start optimizing evaluation scenario of ID: 93
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/93/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/93
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/93 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/93/results.log
+
+Start optimizing evaluation scenario of ID: 94
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/94/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/94
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/94 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/94/results.log
+
+Start optimizing evaluation scenario of ID: 95
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/95/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/95
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/95 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/95/results.log
+
+Start optimizing evaluation scenario of ID: 96
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/96/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/96
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/96 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/96/results.log
+
+Start optimizing evaluation scenario of ID: 97
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/97/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/97
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/97 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/97/results.log
+
+Start optimizing evaluation scenario of ID: 98
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/98/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/98
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/98 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/98/results.log
+
+Start optimizing evaluation scenario of ID: 99
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/99/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/99
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/99 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/99/results.log
+
+Start optimizing evaluation scenario of ID: 100
+Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/100/results.log
+No previous results found
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/100
+Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/100 - No such file or directory.
+Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/100/results.log
+Storing the Mass-Spring Results data at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20.zip
+Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20
+Deleting possible leftovers at Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20
