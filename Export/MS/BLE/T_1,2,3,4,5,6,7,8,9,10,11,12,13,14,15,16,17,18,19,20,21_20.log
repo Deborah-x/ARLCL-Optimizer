@@ -14,7 +14,6 @@ ARLCL export path: Export/ARLCL/BLE_Estimations_temp_unzipped
 Check whether the final Mass-Spring results for current scenario (T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20) already exist.
 The final Mass-Spring results for current scenario (T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20) do not exist.
 Deleting possible leftovers at Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20
-Notice: Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20 - No such file or directory.
 Extracting the ARLCL data at Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20
 Scenario T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20 has been initiated before but is not complete. Continuing the evaluations.
 
@@ -27,7 +26,6 @@ Start optimizing evaluation scenario of ID: 1
 Searching for previous optimization results at: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/1/results.log
 No previous results found
 Deleting possible leftovers at Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/1
-Notice: Export/MS/BLE/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/1 - No such file or directory.
 Opening Export/ARLCL/BLE_Estimations_temp_unzipped/T_1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21_20/1/results.log
 
 Start optimizing evaluation scenario of ID: 2
